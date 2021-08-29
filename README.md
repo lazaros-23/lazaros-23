@@ -12,12 +12,12 @@ class Me:
     A class to represent a person. (Actually just for me)
     """
     def __init__(self):
-        self.name = "Panagiotis Papaemmanouil"
+        self.name = "Lazaros Paschalidis"
         self.pronouns = "he/him"
 	self.role1 = "Data Scientist"
 	self.role2 = "Technology Entrepreneur"
-	self.bsc_studies = ("Mathematics", "Mathematics Dept.", "Aristotle University of Thessaloniki")
-	self.msc_studies = ("Data and Web Science", "Computer Science Dept.", "Aristotle University of Thessaloniki")
+	self.bsc_studies = ("Business Administration", "University of Macedonia")
+	self.msc_studies = ("Data Analytics", "Computing Dept.", "University of Portsmouth")
         self.language_spoken = ["el_GR", "en_US"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
