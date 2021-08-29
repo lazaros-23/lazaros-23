@@ -35,6 +35,19 @@ me.say_hi()
 
 <br>
 
+
+## 🛠️ My favorite tools
+
+
+### 👨‍💻 Programming languages
+
+<p>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+</p>
+
 <!---
 lazaros-23/lazaros-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
