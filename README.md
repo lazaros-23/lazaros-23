@@ -26,7 +26,7 @@ class Me:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Media!")
-        print("Thanks to @papaemman who inspired me to do this!!!" 
+        print("Thanks to @papaemman who inspired me to do this!!!")
 
 
 me = Me()
