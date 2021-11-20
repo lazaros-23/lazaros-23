@@ -3,6 +3,12 @@
 - 🧠 Machine Learning Engineer
 - 👨‍💻 Technology Entrepreneur
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/lazaros-23?label=Follow&style=social" hspace="5">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lazaros-23.github" hspace="5">
+</p>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
