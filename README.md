@@ -27,7 +27,7 @@ class Me:
         self.language_spoken = ["el_GR", "en_US"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
-	self.values = ["Respect", "Integrity", "Trust", "Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
+	self.values = ["Gratitude", "Empathy", "Humility","Teamwork", "Integrity", "Trust", "Accountability", "Passion", "Leadership", "Kaizen"]
 				
 
     def say_hi(self):
